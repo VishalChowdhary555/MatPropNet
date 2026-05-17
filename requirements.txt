@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+xgboost
+torch
+torch-geometric
+jarvis-tools
+matminer
+pymatgen
+joblib
+tqdm
+networkx
+scipy
